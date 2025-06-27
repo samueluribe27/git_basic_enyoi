@@ -1,1 +1,1 @@
-console.log("Hola mamita")
+console.log("Hola mama")
